@@ -5,8 +5,8 @@ on:
   branches: [ main ]
 
 jobs:
- build-e-teste:
-  runs-on: ubuntu-latest
+  build-e-teste:
+   runs-on: ubuntu-latest
 
   steps:
     - name: 1. Pegar o chassi do carro (código-fonte)
