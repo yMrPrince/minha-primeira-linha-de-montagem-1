@@ -9,7 +9,6 @@ jobs:
   runs-on: ubuntu-latest
 
   steps:
-
     - name: 1. Pegar o chassi do carro (código-fonte)
       uses: actions/checkout@v3
   
